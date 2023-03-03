@@ -16,6 +16,7 @@ namespace TranCongMinh_1911060177.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "hello hello";
 
             return View();
         }
