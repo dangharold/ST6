@@ -11,6 +11,7 @@ namespace TranCongMinh_1911060177.Controllers
         public ActionResult Index()
         {
             return View();
+            return View("hello");
         }
 
         public ActionResult About()
