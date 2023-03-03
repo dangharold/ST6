@@ -20,6 +20,7 @@ namespace TranCongMinh_1911060177.Controllers
             ViewBag.Message = "bye";
             ViewBag.Message = "heheheh";
             ViewBag.Message = "kjhdgufd";
+            ViewBag.Message = "kekekekekke";
             return View();
         }
 
