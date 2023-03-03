@@ -17,7 +17,9 @@ namespace TranCongMinh_1911060177.Controllers
         {
             ViewBag.Message = "Your application description page.";
             ViewBag.Message = "hello hello";
-
+            ViewBag.Message = "bye";
+            ViewBag.Message = "heheheh";
+            ViewBag.Message = "kjhdgufd";
             return View();
         }
 
