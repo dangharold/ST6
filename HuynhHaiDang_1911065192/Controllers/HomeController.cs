@@ -21,6 +21,7 @@ namespace TranCongMinh_1911060177.Controllers
             ViewBag.Message = "heheheh";
             ViewBag.Message = "kjhdgufd";
             ViewBag.Message = "kekekekekke";
+            ViewBag.Message = "Huynh Hai Dang";
             return View();
         }
 
